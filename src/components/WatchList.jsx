@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import { FaTrash, FaStar } from 'react-icons/fa';
 import { motion, AnimatePresence } from 'framer-motion';

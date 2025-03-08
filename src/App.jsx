@@ -3,7 +3,7 @@ import { FaList } from 'react-icons/fa';
 import SearchBar from './components/SearchBar';
 import MovieList from './components/MovieList';
 import MovieDetails from './components/MovieDetails';
-import Watchlist from './components/Watchlist';
+import Watchlist from './components/WatchList';
 
 export default function App() {
   const [searchResults, setSearchResults] = useState([]);
